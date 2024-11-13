@@ -51,7 +51,7 @@
       display: none;
     }
     .p-img img {
-      display: flex;
+      display: block;
     }
   .header-menu a {
     background: var(--cor-11);
